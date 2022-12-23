@@ -1,0 +1,18 @@
+{
+  "index": "Начало",
+  "another": "Another Page",
+  "advanced": "Advanced (A Folder)",
+  "Sborka": "Сборки",
+  "about": {
+    "title": "Наш Форум ↗",
+    "type": "page",
+    "href": "https://forum.fabulouscraft.xyz/",
+    "newWindow": true
+  },
+  "contact": {
+    "title": "Наш сайт ↗",
+    "type": "page",
+    "href": "https://fabulouscraft.xyz/",
+    "newWindow": true
+  }
+}
